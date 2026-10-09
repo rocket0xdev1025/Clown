@@ -3781,8 +3781,8 @@ var fa = Object.freeze(
     da({
       launchStatus: `PRELAUNCH`,
       launchDatePublic: `10.9.26`,
-      xUrl: `https://x.com/clowntokenrh`,
-      telegramUrl: `https://t.me/clowntokenrh`,
+      xUrl: `https://x.com/clowncircus21`,
+      telegramUrl: `https://t.me/clowncircus21`,
       teaser: Object.freeze({
         videoSrc: `/media/clown-full-teaser.mp4`,
         posterSrc: `/media/clown-teaser-poster.webp`,
@@ -3814,13 +3814,13 @@ var fa = Object.freeze(
       ],
     })
   ),
-  pa = `https://ponsfamily.com/launchpad/0x7dbb24341153f120fceafa0a1ce6a189fe5394ab`,
+  pa = `https://app.uniswap.org/swap?chain=robinhood&outputCurrency=TBA`,
   ma = Object.freeze(
     da({
       ...fa,
       launchStatus: `LIVE_PONS`,
       launchAuthorization: `GO`,
-      contractAddress: `0x7dbb24341153f120fceafa0a1ce6a189fe5394ab`,
+      contractAddress: `TBA`,
       primaryBuyUrl: pa,
       ponsUrl: pa,
       explorerUrl: null,
